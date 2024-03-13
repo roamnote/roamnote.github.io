@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"24273964fc1f8016","x":-320,"y":-820,"width":400,"height":400,"color":"1","type":"file","file":"关于本站/关于漫游笔记.md"},
-		{"id":"266915bb7bd6f75e","type":"file","file":"关于卢曼卡片盒笔记法的研究.md","x":-1040,"y":-600,"width":400,"height":400,"color":"5"}
+		{"id":"266915bb7bd6f75e","type":"file","file":"卢曼卡片盒笔记法/关于卢曼卡片盒笔记法的研究.md","x":-1040,"y":-600,"width":400,"height":400,"color":"5"}
 	],
 	"edges":[
 		{"id":"95db2769a9e9bafc","fromNode":"266915bb7bd6f75e","fromSide":"right","toNode":"24273964fc1f8016","toSide":"left","label":"漫游笔记参考了卡片盒笔记法"}
